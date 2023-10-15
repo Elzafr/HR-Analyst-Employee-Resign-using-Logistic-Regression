@@ -1,6 +1,6 @@
 # HR Analyst Employee Resign
 # Overview
-This repository contains HR analyst to see Employee resign using Extreme Logistic Regression, to help determine the optimum optimum model to see dichotomus value [0,1] as main algorithm. The Python Script is Focused in main thing such : Data Understanding, Data Adjusment, Data insight via Visualization, Modelling, and Deployement Model.
+This repository contains HR analyst to see Employee resign using Logistic Regression, to help determine the optimum optimum model to see dichotomus value [0,1] as main algorithm. The Python Script is Focused in main thing such : Data Understanding, Data Adjusment, Data insight via Visualization, Modelling, and Deployement Model.
 
 # Repository Structure
 The repository is organized as follows:
